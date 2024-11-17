@@ -1,2 +1,2 @@
 # Laboratorio8
-Repositorio para mi nuevo proyecto
+Repositorio para el laboratorio 08
